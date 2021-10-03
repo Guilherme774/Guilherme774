@@ -1,6 +1,6 @@
 ### Hi there! I am Guilherme Silva 👋
 
-- 👨‍💻 I’m a brazilian Dev
+- 👨‍💻 I’m a brazilian Front-End Dev and UI/UX Designer
 - 🔭 I’m currently working on Front-End and UX/UI
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: silva.guilhermee77@gmail.com
