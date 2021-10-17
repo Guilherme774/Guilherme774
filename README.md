@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a brazilian Front-End Dev and UI/UX Designer
 - 🔭 I’m currently working on Front-End and UX/UI
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
@@ -16,7 +16,7 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
