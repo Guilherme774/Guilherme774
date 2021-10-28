@@ -1,8 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
-- 👨‍💻 I’m a brazilian Front-End Dev and UI/UX Designer
-- 🔭 I’m currently working on Front-End and UX/UI
-- 🌱 I’m currently learning Dart and Flutter
+- 👨‍💻 I’m a Python Developer
+- 🔭 I’m currently studying on DataScience and CyberSecurity
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
