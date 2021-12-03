@@ -1,8 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
-- 👨‍💻 I’m a Python Developer
-- 🔭 I’m currently working on DataScience and CyberSecurity Projects
-- 🌱 I’m currently learning Linux and Pentest
+- 👨‍💻 I’m a Developer
+- 🔭 I’m currently working on Intern C# Dev
+- 🌱 I’m currently learning C# and JavaScript
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
 </div>  
   
 ##  
