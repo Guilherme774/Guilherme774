@@ -1,8 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
 - 👨‍💻 I’m a Developer
-- 🔭 I’m currently working on Intern C# Dev
-- 🌱 I’m currently learning C# and JavaScript
+- 🔭 I’m currently working on Full Stack Developer
+- 🌱 I’m currently learning Angular and JavaScript
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
