@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Developer
 - 🔭 I’m currently working on Full Stack Developer
-- 🌱 I’m currently learning Angular and JavaScript
+- 🌱 I’m currently learning App Development with React Native
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
