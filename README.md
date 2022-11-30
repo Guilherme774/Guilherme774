@@ -1,7 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
-- 👨‍💻 I’m a Developer
+- 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working on Front-end Developments
+- 🕸️ I'm a NodeJS Developer to
 - 🌱 I’m currently learning WEB Development with Angular and App Development with Flutter
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
