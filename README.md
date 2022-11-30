@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working on Front-end Developments
-- 🕸️ I'm a NodeJS Developer to
+- 🕸️ I'm also working on projects with Angular and NodeJS
 - 🌱 I’m currently learning WEB Development with Angular and App Development with Flutter
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
