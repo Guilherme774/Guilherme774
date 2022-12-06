@@ -2,8 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working on Front-end Developments
-- 🕸️ I'm also working on projects with Angular and NodeJS
-- 🌱 I’m currently learning WEB Development with Angular and App Development with Flutter
+- 🌱 I’m currently learning WEB Development with Angular for Front-end and ASP.NET for Back-end
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
@@ -22,7 +21,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>  
   
 ##  
