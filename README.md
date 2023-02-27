@@ -1,8 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
 - 👨‍💻 I’m a FullStack Developer
-- 🔭 I’m currently working on Front-end Developments
-- 🌱 I’m currently learning WEB Development with Angular for Front-end and ASP.NET for Back-end
+- 🔭 I’m currently working as a Front-end Dev
+- 🌱 I’m currently learning WEB Development with Angular for Front-end, React-Native for mobile apps and NodeJS for Back-end
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
