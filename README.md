@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working as a Front-end Dev
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Back-end with NodeJS
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 ##
