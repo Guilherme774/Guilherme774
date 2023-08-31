@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working as a Front-end Dev
-- 🌱 I’m currently learning Back-end with Golang
+- 🌱 I’m currently learning Back-end with Go(Golang)
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
