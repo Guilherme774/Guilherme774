@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning ReactJS and C#/.NET
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
@@ -18,8 +18,8 @@
   <img align="center" alt="Gui-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Gui-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Gui-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>  
 
 ##  
