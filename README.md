@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a FullStack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning DenoJS
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
@@ -21,7 +21,6 @@
   <img align="center" alt="Gui-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
   <img align="center" alt="Gui-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Gui-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Gui-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>  
 
 ##  
