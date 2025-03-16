@@ -1,8 +1,8 @@
 ### Hi there! I am Guilherme Silva 👋
 
-- 👨‍💻 I’m a FullStack Developer
+- 👨‍💻 I’m a Cybersecurity Researcher
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning Data Structure
+- 🌱 I’m currently learning OS and Cheat Engines
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
