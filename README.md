@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Full-Stack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning Kotlin and Data Structure
+- 🌱 I’m currently learning Go(golang) and Data Structure
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
@@ -14,6 +14,7 @@
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gui-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Gui-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
