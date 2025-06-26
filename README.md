@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Full-Stack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning Golang and Data Structure
+- 🌱 I’m currently learning Kotlin and Data Structure
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
