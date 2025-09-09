@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Full-Stack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently learning Kotlin and Data Structure
+- 🌱 I’m currently improving my C#/.NET and Data Structure
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
@@ -14,9 +14,8 @@
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Gui-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gui-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-Deno" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
