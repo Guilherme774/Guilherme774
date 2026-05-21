@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m a Full-Stack Developer
 - 🔭 I’m currently working as a Full-stack Dev
-- 🌱 I’m currently improving my C#/.NET and Data Structure
+- 🌱 I’m currently improving my AppSec skills
 - 📫 How to reach me: silva.guilhermee77@gmail.com
 
 <!--<div align="center">
